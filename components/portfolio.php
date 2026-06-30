@@ -1,55 +1,55 @@
-<section id="portfolio" class="py-5 bg-light">
-    <div class="container">
+<section id="portfolio">
 
-        <h2 class="text-center mb-5">
-            Portofolio
-        </h2>
+<div class="container">
 
-        <div class="row">
+<h2>Portfolio</h2>
 
-            <div class="col-md-4 mb-4">
-                <div class="card shadow">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            Website Portofolio
-                        </h5>
-                        <p class="card-text">
-                            Website pribadi berbasis PHP,
-                            Bootstrap, HTML, CSS, dan JavaScript.
-                        </p>
-                    </div>
-                </div>
-            </div>
+<div class="portfolio-grid">
 
-            <div class="col-md-4 mb-4">
-                <div class="card shadow">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            Remora Optimization Algorithm
-                        </h5>
-                        <p class="card-text">
-                            Implementasi algoritma optimasi
-                            menggunakan bahasa Python.
-                        </p>
-                    </div>
-                </div>
-            </div>
+<div class="portfolio-card">
 
-            <div class="col-md-4 mb-4">
-                <div class="card shadow">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            Sistem Informasi
-                        </h5>
-                        <p class="card-text">
-                            Pengembangan aplikasi web untuk
-                            kebutuhan akademik.
-                        </p>
-                    </div>
-                </div>
-            </div>
+<h3>Website Portfolio</h3>
 
-        </div>
+<p>
+Website pribadi menggunakan PHP, HTML dan CSS.
+</p>
 
-    </div>
+<a href="#">
+Lihat Project →
+</a>
+
+</div>
+
+<div class="portfolio-card">
+
+<h3>Artificial Intelligence</h3>
+
+<p>
+Aplikasi AI untuk diagnosa penyakit.
+</p>
+
+<a href="#">
+Lihat Project →
+</a>
+
+</div>
+
+<div class="portfolio-card">
+
+<h3>Cyber Security</h3>
+
+<p>
+Penelitian keamanan jaringan komputer.
+</p>
+
+<a href="#">
+Lihat Project →
+</a>
+
+</div>
+
+</div>
+
+</div>
+
 </section>

@@ -31,7 +31,7 @@ if (!isset($_SESSION['admin'])) {
 
 <li><a href="profile.php">👤 Profile</a></li>
 
-<li><a href="#">🎓 Education</a></li>
+<li><a href="education.php">🎓 Education</a></li>
 
 <li><a href="#">💼 Experience</a></li>
 

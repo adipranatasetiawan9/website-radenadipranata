@@ -1,35 +1,24 @@
-<section class="hero py-5">
-    <div class="container text-center">
+<section id="hero" class="hero">
 
-        <img src="images/profile.jpg"
-             alt="Foto Profil"
-             class="rounded-circle shadow"
-             width="180"
-             height="180">
+<div class="container">
 
-        <h1>
-    <i class="bi bi-person-circle"></i>
-    Raden Adipranata Setiawan
-</h1>
+<img src="images/profile.jpg" alt="Foto Profil">
+
+<h1>Raden Adipranata Setiawan</h1>
+
+<h3>Mahasiswa Teknik Informatika</h3>
 
 <p>
-    <i class="bi bi-mortarboard-fill"></i>
-    Mahasiswa Teknik Informatika Semester 6
+Selamat datang di website portofolio saya.
+Website ini berisi profil, pendidikan,
+pengalaman, penelitian,
+dan berbagai proyek yang telah saya kerjakan.
 </p>
 
-        <p>
-            Selamat datang di website portofolio saya.
-            Website ini berisi profil, pendidikan,
-            pengalaman, penelitian, publikasi,
-            serta berbagai proyek yang telah saya kerjakan.
-        </p>
+<a href="#portfolio" class="btn">
+Lihat Portofolio
+</a>
 
-        <a href="#portfolio"
-           class="btn btn-primary btn-lg">
+</div>
 
-            Lihat Portofolio
-
-        </a>
-
-    </div>
 </section>

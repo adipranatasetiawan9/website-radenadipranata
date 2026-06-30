@@ -1,38 +1,25 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-  <div class="container">
-    <a class="navbar-brand" href="#">Raden Adipranata</a>
+<nav class="navbar">
 
-    <button class="navbar-toggler"
-      type="button"
-      data-bs-toggle="collapse"
-      data-bs-target="#menu">
+<div class="container nav-container">
 
-      <span class="navbar-toggler-icon"></span>
+<h2 class="logo">
+Raden Adipranata
+</h2>
 
-    </button>
+<ul class="menu">
 
-    <div class="collapse navbar-collapse" id="menu">
+<li><a href="#hero">Home</a></li>
 
-      <ul class="navbar-nav ms-auto">
+<li><a href="#about">About</a></li>
 
-        <li class="nav-item">
-          <a class="nav-link active" href="#">Home</a>
-        </li>
+<li><a href="#skills">Skills</a></li>
 
-        <li class="nav-item">
-          <a class="nav-link" href="#about">Tentang</a>
-        </li>
+<li><a href="#portfolio">Portfolio</a></li>
 
-        <li class="nav-item">
-          <a class="nav-link" href="#portfolio">Portofolio</a>
-        </li>
+<li><a href="#contact">Contact</a></li>
 
-        <li class="nav-item">
-          <a class="nav-link" href="#contact">Kontak</a>
-        </li>
+</ul>
 
-      </ul>
+</div>
 
-    </div>
-  </div>
 </nav>

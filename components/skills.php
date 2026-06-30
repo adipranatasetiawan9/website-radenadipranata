@@ -1,49 +1,59 @@
-<section id="skills" class="py-5">
-    <div class="container">
+<section id="skills" class="skills">
 
-        <h2 class="text-center mb-5">
-            Keahlian
-        </h2>
+<div class="container">
 
-        <div class="mb-4">
-            <label>HTML</label>
-            <div class="progress">
-                <div class="progress-bar bg-primary"
-                     style="width:90%">
-                    90%
-                </div>
-            </div>
-        </div>
+<h2>Keahlian</h2>
 
-        <div class="mb-4">
-            <label>CSS</label>
-            <div class="progress">
-                <div class="progress-bar bg-success"
-                     style="width:85%">
-                    85%
-                </div>
-            </div>
-        </div>
+<div class="skill">
 
-        <div class="mb-4">
-            <label>PHP</label>
-            <div class="progress">
-                <div class="progress-bar bg-warning"
-                     style="width:75%">
-                    75%
-                </div>
-            </div>
-        </div>
+<p>HTML <span>95%</span></p>
 
-        <div class="mb-4">
-            <label>JavaScript</label>
-            <div class="progress">
-                <div class="progress-bar bg-danger"
-                     style="width:70%">
-                    70%
-                </div>
-            </div>
-        </div>
+<div class="progress">
+<div class="bar html"></div>
+</div>
 
-    </div>
+</div>
+
+<div class="skill">
+
+<p>CSS <span>90%</span></p>
+
+<div class="progress">
+<div class="bar css"></div>
+</div>
+
+</div>
+
+<div class="skill">
+
+<p>PHP <span>85%</span></p>
+
+<div class="progress">
+<div class="bar php"></div>
+</div>
+
+</div>
+
+<div class="skill">
+
+<p>JavaScript <span>75%</span></p>
+
+<div class="progress">
+<div class="bar js"></div>
+</div>
+
+</div>
+
+<div class="skill">
+
+<p>Python <span>85%</span></p>
+
+<div class="progress">
+<div class="bar python"></div>
+</div>
+
+</div>
+
+</div>
+
 </section>

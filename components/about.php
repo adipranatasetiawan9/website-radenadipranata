@@ -1,52 +1,65 @@
-<section id="about" class="py-5 bg-light">
-    <div class="container">
+<section id="about" class="about">
 
-        <h2 class="text-center mb-4">
-            Tentang Saya
-        </h2>
+<div class="container">
 
-        <div class="row">
+<h2>Tentang Saya</h2>
 
-            <div class="col-md-6">
-                <h4>Profil Singkat</h4>
+<div class="about-grid">
 
-                <p>
-                    Saya adalah mahasiswa Teknik Informatika
-                    semester 6 yang memiliki minat pada
-                    pengembangan website, pemrograman,
-                    keamanan komputer, dan kecerdasan buatan.
-                </p>
-            </div>
+<div class="about-left">
 
-            <div class="col-md-6">
+<h3>Profil Singkat</h3>
 
-                <table class="table">
+<p>
+Saya adalah mahasiswa Teknik Informatika Semester 6 yang memiliki minat pada bidang Web Development, Artificial Intelligence, Cyber Security, dan Data Science.
+</p>
 
-                    <tr>
-                        <th>Nama</th>
-                        <td>Raden Adipranata Setiawan</td>
-                    </tr>
+<p>
+Saya senang mempelajari teknologi baru serta membangun aplikasi yang bermanfaat bagi masyarakat.
+</p>
 
-                    <tr>
-                        <th>Status</th>
-                        <td>Mahasiswa</td>
-                    </tr>
+</div>
 
-                    <tr>
-                        <th>Program Studi</th>
-                        <td>Teknik Informatika</td>
-                    </tr>
+<div class="about-right">
 
-                    <tr>
-                        <th>Semester</th>
-                        <td>6</td>
-                    </tr>
+<table>
 
-                </table>
+<tr>
+<td><b>Nama</b></td>
+<td>Raden Adipranata Setiawan</td>
+</tr>
 
-            </div>
+<tr>
+<td><b>Status</b></td>
+<td>Mahasiswa</td>
+</tr>
 
-        </div>
+<tr>
+<td><b>Semester</b></td>
+<td>6</td>
+</tr>
 
-    </div>
+<tr>
+<td><b>Bidang</b></td>
+<td>Web Developer</td>
+</tr>
+
+<tr>
+<td><b>AI</b></td>
+<td>Machine Learning</td>
+</tr>
+
+<tr>
+<td><b>Negara</b></td>
+<td>Indonesia</td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+</div>
+
 </section>
